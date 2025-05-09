@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Castroverse DB Anime Figures</string>
+
+    <string-array name="products">
+        <item>Banpresto One Piece Film Z - Master Zephyr and Luffy</item>
+        <item>Banpresto Love Live! Nijigasaki School Idol - Setsuna Yuki</item>
+        <item>Banpresto Qposket Tokyo Revengers - Hakkai Shiba</item>
+        <item>Banpresto Tokyo Revengers - Manjiro Sano Mikey</item>
+        <item>Demon Slayer - Inosuke Hashibara</item>
+        <item>Fluffy Puffy - Chopper</item>
+        <item>Ichiban Kuji (IK) Demon Slayer Tengen Uzui Prize A</item>
+        <item>Monotagari Series Ichiban Kuji Chibi Kyun Chara</item>
+        <item>Naruto Shippuden Panel Spectacle - Uchiha Sasuke</item>
+        <item>Nezuko Kamado - Sega Noodle Stopper</item>
+        <item>One Piece Battle Record Collection Monkey D. Luffy Gear 5</item>
+        <item>One Piece Bundle</item>
+        <item>One Piece Ichiban Kuji Prize F - Crocodile</item>
+        <item>One Piece Panson Works - Monkey D. Dragon</item>
+        <item>Rock Lee - Naruto Shippuden Vibration Stars</item>
+        <item>SEGA Noodle Stopper - Tengen Uzui</item>
+        <item>SEGA SPM Demon Slayer - Akaza</item>
+        <item>Son Gohan Beast - Banpresto Dragon Ball Z History Box Vol. 8</item>
+        <item>Taito Jujutsu Kaisen - Yuji Itadori</item>
+        <item>Banpresto One Piece Figure Sunny Goon Red DXF Grand Line Man</item>
+        <item>Charl Joven Castro</item>
+        <item>Charles Jeramy De Padua</item>
+        <item>Klarenz Cobie Manrique</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>1200.00</item>
+        <item>500.00</item>
+        <item>350.00</item>
+        <item>500.00</item>
+        <item>700.00</item>
+        <item>500.00</item>
+        <item>2500.00</item>
+        <item>700.00</item>
+        <item>1000.00</item>
+        <item>500.00</item>
+        <item>1500.00</item>
+        <item>4000.00</item>
+        <item>1500.00</item>
+        <item>500.00</item>
+        <item>800.00</item>
+        <item>1500.00</item>
+        <item>800.00</item>
+        <item>750.00</item>
+        <item>500.00</item>
+        <item>450.00</item>
+        <item>5000.00</item>
+        <item>150.00</item>
+        <item>18.00</item>
+    </string-array>
+
+    <string-array name="images">
+        <item>zephyr_and_luffy</item>
+        <item>setsuna</item>
+        <item>hakkai</item>
+        <item>mikey</item>
+        <item>inosuke</item>
+        <item>chopper</item>
+        <item>tengen</item>
+        <item>ichiban_kuji</item>
+        <item>sasuke</item>
+        <item>nezuko</item>
+        <item>luffy_gear_6</item>
+        <item>one_piece_bundle</item>
+        <item>crocodile</item>
+        <item>dragon</item>
+        <item>rock_lee</item>
+        <item>noodle_tengen</item>
+        <item>akaza</item>
+        <item>son_gohan</item>
+        <item>yuji</item>
+        <item>sunny_goon</item>
+        <item>cj</item>
+        <item>charles</item>
+        <item>kc</item>
+    </string-array>
+
+
+    <!-- Descriptions for the figures -->
+    <string-array name="product_desc">
+        <item>Master Zephyr and Luffy figure from One Piece Film Z by Banpresto.</item>
+        <item>Setsuna Yuki from Love Live! Nijigasaki School Idol in idol outfit.</item>
+        <item>Qposket figure of Hakkai Shiba from Tokyo Revengers with signature expression.</item>
+        <item>Tokyo Revengers\' Mikey (Manjiro Sano) in Banpresto\'s classic figure style.</item>
+        <item>Detailed figure of Inosuke Hashibira from Demon Slayer in an action pose.</item>
+        <item>Adorable Chopper in the Fluffy Puffy figure line with a fuzzy texture.</item>
+        <item>Prize A figure of Tengen Uzui from the Ichiban Kuji Demon Slayer series.</item>
+        <item>Miniature chibi-style figure from the Monogatari Series Ichiban Kuji line.</item>
+        <item>Panel Spectacle version of Sasuke Uchiha from Naruto Shippuden.</item>
+        <item>Cute Nezuko Kamado figure from Sega\'s Noodle Stopper line.</item>
+        <item>Luffy in Gear 5 form from the Battle Record Collection series.</item>
+        <item>A bundle of collectible One Piece figures featuring various characters.</item>
+        <item>One Piece Ichiban Kuji Prize F figure of Crocodile in battle stance.</item>
+        <item>Monkey D. Dragon from One Piece in chibi Panson Works style.</item>
+        <item>Dynamic Rock Lee from Naruto Shippuden in mid-attack pose.</item>
+        <item>Tengen Uzui figure designed to sit on a shelf or cup edge.</item>
+        <item>Akaza from Demon Slayer, part of the SEGA SPM figure collection.</item>
+        <item>Son Gohan Beast form from Dragon Ball Z, sculpted in high detail by Banpresto.</item>
+        <item>Yuji Itadori from Jujutsu Kaisen, recreated in his iconic fighting stance.</item>
+        <item>Red DXF Grand Line Man figure of the Sunny Goon ship from One Piece.</item>
+        <item>A young eccentric boy very tall and like longganisa.</item>
+        <item>A very shin.y</item>
+        <item>A dark worker never not stopping work work work in jobs jobs jobs yes.</item>
+    </string-array>
+
+    <string-array name="product_id">
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>105</item>
+        <item>106</item>
+        <item>107</item>
+        <item>108</item>
+        <item>109</item>
+        <item>110</item>
+        <item>111</item>
+        <item>112</item>
+        <item>113</item>
+        <item>114</item>
+        <item>115</item>
+        <item>116</item>
+        <item>117</item>
+        <item>118</item>
+        <item>119</item>
+        <item>120</item>
+        <item>121</item>
+        <item>122</item>
+        <item>123</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
